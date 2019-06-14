@@ -74,7 +74,6 @@ group :test do
   gem 'nokogiri-pretty', require: false
   gem 'shoulda-matchers', require: false
   gem 'simplecov', require: false
-  gem 'rspec-eq_html', toptal: 'rspec-eq_html'
   gem 'vcr', require: false
   gem 'watir-rails', require: false
   gem 'watir-rspec', require: false
